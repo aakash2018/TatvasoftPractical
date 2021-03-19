@@ -1,0 +1,78 @@
+{
+  "blogs": [],
+  "users": [
+    {
+      "firstName": "ganesh",
+      "lastName": "shiv",
+      "email": "ganesh@gmail.com",
+      "password": "1323",
+      "dob": "2021-03-25T18:30:00.000Z",
+      "role": "Admin",
+      "id": 1616147614334
+    },
+    {
+      "firstName": "aakash",
+      "lastName": "prajapat",
+      "email": "aakash@gmail.com",
+      "password": "1234",
+      "dob": "2021-03-23T18:30:00.000Z",
+      "role": "User",
+      "id": 1616147656787
+    },
+    {
+      "email": "aakash@gmail.com",
+      "password": "1234",
+      "id": 1616147656788
+    },
+    {
+      "email": "ganesh@gmail.com",
+      "password": "1234",
+      "id": 1616147656789
+    },
+    {
+      "email": "ganesh@gmail.com",
+      "password": "1234",
+      "id": 1616147656790
+    },
+    {
+      "email": "aakash@gmail.com",
+      "password": "1234",
+      "id": 1616147656791
+    },
+    {
+      "email": "ganesh@gmail.com",
+      "password": "1234",
+      "id": 1616147656792
+    },
+    {
+      "email": "ganesh@gmail.com",
+      "password": "1234",
+      "id": 1616147656793
+    },
+    {
+      "email": "ganesh@gmail.com",
+      "password": "1234",
+      "id": 1616147656794
+    },
+    {
+      "email": "ganesh@gmail.com",
+      "password": "1234",
+      "id": 1616147656795
+    },
+    {
+      "email": "ganesh@gmail.com",
+      "password": "1234",
+      "id": 1616147656796
+    },
+    {
+      "email": "ganesh@gmail.com",
+      "password": "1234",
+      "id": 1616147656797
+    },
+    {
+      "email": "ganesh@gmail.com",
+      "password": "1234",
+      "id": 1616147656798
+    }
+  ]
+}
